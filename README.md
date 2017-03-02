@@ -1,3 +1,14 @@
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/00135845a9d1fbe3696c98454834efbd7b4329fb/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_readme_1024x466.png "Fermat Logo")
+
+# IoP CAN NET go libp2p kad dht
+
+> We need to keep this fork as far as we need to run our own instance of the IPFS network
+
+In order to keep this neat and tidy, we have written our documentation at:
+[IoP CAN NET DOCs](https://github.com/Fermat-ORG/iop-content-address-network-documentation).
+
+Original content follows:
+
 # go-libp2p-kad-dht
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
